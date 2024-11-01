@@ -9,6 +9,7 @@ train: /content/gdrive/MyDrive/Data/45_crane/image/train  # train images (relati
 val: /content/gdrive/MyDrive/Data/45_crane/image/val  # val images (relative to 'path') 5000 images
 
 # Classes
+
 names:
   0: laddle
   1: no_object
